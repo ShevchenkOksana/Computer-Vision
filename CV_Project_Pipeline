@@ -1,0 +1,9 @@
+Computer Vision: Choose Best Architecture for Image Classification
+In this project, different deep learning architectures were tested for image classification. The goal was to select the best model based on performance metrics.
+
+Key Achievements:
+Completed training (train_one_epoch) and evaluation (evaluate) functions.
+Tested 4 architectures (excluding Inception) and selected the best model.
+Provided a complete training pipeline with comments and model analysis.
+Technologies Used:
+Python, PyTorch (or TensorFlow), Jupyter Notebook, Google Colab.

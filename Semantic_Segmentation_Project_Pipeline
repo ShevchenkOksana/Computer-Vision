@@ -1,0 +1,11 @@
+Computer Vision: Semantic Segmentation
+This project focuses on training models for semantic segmentation. The task involved experimenting with different architectures, tuning hyperparameters, and selecting the best model for segmenting images into meaningful categories.
+
+Key Achievements:
+Implemented training (train_one_epoch) and evaluation (evaluate) functions for semantic segmentation tasks.
+Tested 4 different architectures for segmentation.
+Tuned optimizer and learning rate scheduler to accelerate model convergence and improve performance.
+Selected the best-performing model based on segmentation accuracy and evaluation metrics.
+The notebook includes a complete training pipeline with comments and highlights the best model.
+Technologies Used:
+Python, PyTorch (or TensorFlow), Jupyter Notebook, Google Colab.
